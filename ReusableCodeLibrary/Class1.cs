@@ -105,7 +105,8 @@ namespace ReusableCodeLibrary
             Console.WriteLine(dt.Minute);
             Console.WriteLine(dt.Second);
             Console.WriteLine(dt.Millisecond);
-            Console.WriteLine(dt.dayOfWeek);
+            Console.WriteLine(dt.DayOfWeek);
+            Console.WriteLine(dt.Day);
 
         }
 
